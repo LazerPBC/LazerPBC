@@ -418,24 +418,6 @@ print('total calculation time', sum(ctim))
 
 
 
-# In[2]:
-
-
-from numpy import *
-from random import *
-from math import *
-import matplotlib.pyplot as plt
-import time
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
